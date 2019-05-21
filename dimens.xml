@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 10116152-Moch Sholehudin Mawardi-IF4-Senin, 20 Mei 2019 -->
+
+<resources>
+
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_indicator_height">3dp</dimen>
+    <dimen name="text_tab_size">14sp</dimen>
+</resources>

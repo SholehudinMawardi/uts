@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 10116152-Moch Sholehudin Mawardi-IF4-Senin, 20 Mei 2019 -->
+
+<resources>
+    <string name="app_name">TabsLayoutExample</string>
+
+    <string name="Home">Progam Ini Di Buat Untuk Memenuhi Tugas UTS Matkul Android</string>
+    <string name="Profil">10116152-Moch Sholehudin Mawardi-IF4-The World Is My Play Ground </string>
+    <string name="Kontak">WA : 082122256037 - Line : ardimawardi881 - FB : M Sholehudin M - IG : M_Solehudin_M</string>
+    <string name="List">List</string>
+</resources>

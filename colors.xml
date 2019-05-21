@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 10116152-Moch Sholehudin Mawardi-IF4-Senin, 20 Mei 2019 -->
+
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pink">#FCE4EC</color>
+    <color name="color_white_semitransparent">#99FFFFFF</color>
+</resources>
